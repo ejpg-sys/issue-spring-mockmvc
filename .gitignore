@@ -1,0 +1,18 @@
+# The MIT License (MIT)
+# Copyright (c) 2024 Eduardo Junior Pereira Garcia
+# 
+# https://github.com/ejpg-sys/issue-spring-mockmvc
+
+# eclipse
+.classpath
+.settings
+.project
+
+# intellij
+.idea
+*.iml
+*.lst
+out
+
+# maven
+target
